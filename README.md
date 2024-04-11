@@ -1,6 +1,6 @@
 Dams in Wyoming 
 ---
-This map shows
+This bivariate map shows the distribution of dams across Wyoming and within each county.
 
 Some useful links are getting this data are [Opendatasoft](https://public.opendatasoft.com/explore/?sort=modified) and [National Inventory of Dams](https://nid.sec.usace.army.mil/#/)
 
